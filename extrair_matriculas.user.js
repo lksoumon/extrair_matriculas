@@ -6,6 +6,8 @@
 // @author       Você
 // @match        http://sigeduca.seduc.mt.gov.br/ged/HWCMatriculasAluno.aspx?*
 // @grant        none
+// @updateURL    https://github.com/lksoumon/extrair_matriculas/raw/refs/heads/main/extrair_matriculas.user.js
+// @downloadURL   https://github.com/lksoumon/extrair_matriculas/raw/refs/heads/main/extrair_matriculas.user.js
 // ==/UserScript==
 
 (function() {
